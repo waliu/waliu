@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
  - 当然本人是个前端，HTML/css/js 当然不在话下，哈哈哈哈哈哈哈。
  
 # 👀我在做什么
-- 目前正在学习 平台架构搭建、Vue3-OOP开发、TS装饰器开发。
+- 目前正在学习平台架构搭建，并且正在开发表单编辑器。
 # 💞关于跨平台原生扩展
 - 如果你需要扩展跨平台功能、例如Cordova 插件。flutter插件，可以联系我们。
 - 如果你需要学习相关资料，可以关注我的博客。
